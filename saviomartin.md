@@ -41,9 +41,9 @@
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<img src="https://github-readme-stats.vercel.app/api?username=HarshitM567&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitM567&theme=radical&title_color=8E2DE2&text_color=fff)
 
 <img src="https://github.com/saviomartin/saviomartin/blob/master/assets/repo.png?raw=true">
 
@@ -53,4 +53,4 @@
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
 </p>
-⭐️ From [saviomartin](https://github.com/saviomartin)
+⭐️ From [Harshit Mittal](https://github.com/HarshitM567)
