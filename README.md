@@ -59,7 +59,7 @@
 
 <br>
 
- <a href="https://github.com/HarshitM568/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshitM567&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harshit Mittal's github stats" /></a>
+ <a href="https://github.com/HarshitM567/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshitM567&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harshit Mittal's github stats" /></a>
 
 </br>
 
