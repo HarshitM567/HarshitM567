@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Generative AI
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, Artificial Intelligence and Machine LEarning.
+- 🎓 &nbsp; Studying Computer Science, Artificial Intelligence and Machine Learning.
 - 💼 &nbsp; ML Enginner.
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
 - ✍️ &nbsp; Exploring Ancient Indian History and Mythologies and trying out latest design trends as hobbies/side hustles.
